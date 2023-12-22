@@ -8,9 +8,9 @@ My First SPRINT Project
 
 subject : 
 
-  1.Mobile electric vehicle charging system
+      1.Mobile electric vehicle charging system
 
-  2.Electric vehicle charging failure reporting system
+      2.Electric vehicle charging failure reporting system
 
 React, Spring(JPA) ,Kakao map API
 
